@@ -5,6 +5,6 @@ spring:
     config:
       server:
         git:
-          uri: file: config_files/
+          uri: https://github.com/corcoles155/config_server.git
 server:
   port: 8888

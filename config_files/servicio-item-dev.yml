@@ -1,0 +1,5 @@
+configuracion:
+  texto: Configurando entorno DEV
+  autor:
+    nombre: Ana
+    email: prueba@prueba.com
